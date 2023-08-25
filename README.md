@@ -13,7 +13,7 @@ This project encompasses modern Android development technologies and includes th
 ⏳ Lifecycle: Effectively managing the lifecycle of activities and fragments.
 🖼️ Glide: Swiftly and efficiently loading recipe images.
 🚀 Project Objective
-This app aims to provide easy access to a variety of recipes. Users can explore popular recipes, view their details, and even save their favorite recipes. Throughout the development of this project, I not only enhanced my technical skills but also learned how to design a user-centered experience.
+This app aims to provide easy access to a variety of recipes. Users can explore popular recipes, view their details, and even save their favorite recipes. Throughout the development of this project, I not only enhanced my technical skills but also learned how to design a user-centered experience. While creating this application, I utilized data from the MealDB API.
 
 I hope you enjoy my project! I'm open to any feedback, suggestions, or comments. Thank you! 🙌👨‍💻
 
