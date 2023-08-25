@@ -16,6 +16,10 @@ This project encompasses modern Android development technologies and includes th
 This app aims to provide easy access to a variety of recipes. Users can explore popular recipes, view their details, and even save their favorite recipes. Throughout the development of this project, I not only enhanced my technical skills but also learned how to design a user-centered experience.
 
 I hope you enjoy my project! I'm open to any feedback, suggestions, or comments. Thank you! 🙌👨‍💻
+
+
+
+
 ![food1](https://github.com/GzdeO/FoodyApp/assets/137268577/8ce54fe4-72a2-4e23-90ad-2e6bafc35985)
 ![food2](https://github.com/GzdeO/FoodyApp/assets/137268577/2d63805c-036b-4314-b2e8-c3385b6c6afa)
 ![foody3](https://github.com/GzdeO/FoodyApp/assets/137268577/b94ec0d6-c380-41b7-9b72-203289773283)
